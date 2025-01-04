@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Examination of Traditional Botnet Detection on IoT-Based Bots"
 collection: publications
-category: conferences
+category: jornals
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Woodiss-Field A, Johnstone M, Haskell-Dowland PS'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+venue: 'Sensors, Vol. 24, Iss. 3, pp1027, 2024'
+paperurl: 'https://doi.org/10.3390/s24031027'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A botnet is a collection of Internet-connected computers that have been suborned and are controlled externally for malicious purposes. Concomitant with the growth of the Internet of Things (IoT), botnets have been expanding to use IoT devices as their attack vectors. IoT devices utilise specific protocols and network topologies distinct from conventional computers that may render detection techniques ineffective on compromised IoT devices. This paper describes experiments involving the acquisition of several traditional botnet detection techniques, BotMiner, BotProbe, and BotHunter, to evaluate their capabilities when applied to IoT-based botnets. Multiple simulation environments, using internally developed network traffic generation software, were created to test these techniques on traditional and IoT-based networks, with multiple scenarios differentiated by the total number of hosts, the total number of infected hosts, the botnet command and control (CnC) type, and the presence of aberrant activity. Externally acquired datasets were also used to further test and validate the capabilities of each botnet detection technique. The results indicated, contrary to expectations, that BotMiner and BotProbe were able to detect IoT-based botnets—though they exhibited certain limitations specific to their operation. The results show that traditional botnet detection techniques are capable of detecting IoT-based botnets and that the different techniques may offer capabilities that complement one another.
