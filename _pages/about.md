@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief biographical information"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Professor Paul Haskell-Dowland is the Professor of Cyber Security Practice and Associate Dean for Computing and Security in the [School of Science](https://www.ecu.edu.au/schools/science/staff/profiles/associate-deans/dr-paul-haskell-dowland) at Edith Cowan University, Perth, Australia.  Paul has delivered keynotes, invited presentations, workshops, professional development/training and seminars across the world for audiences including RSA Security, ITU and IEEE. He has appeared on local, national and international media (newspaper, radio and tv) commenting on current cyber issues with a global audience reach of more than three billion people. His contributions through articles published in [The Conversation](https://theconversation.com/profiles/paul-haskell-dowland-382903/articles) have reached over three million readers - joining the top-50 all-time authors in Australia/New Zealand (top-10 in 2021). Paul has more than 25 years of experience in cyber security research and education leadership in both the UK and Australia.
+
+Paul is the Chair and the ACS/Australian Country Member Representative to the International Federation for Information Processing (IFIP) Technical Committee 11 ([TC11 - Security and Privacy Protection in Information Processing Systems](https://www.ifiptc11.org/)); secretary to IFIP Working Group 11.1 ([Information Security Management](http://www.ifiptc11.org/wg111/)); a member of the [ACS Cyber Security Committee](https://www.acs.org.au/governance/cybersecurity-committee.html); a Senior Member of the IEEE and the [ACS](https://www.acs.org.au/) (Certified Professional); and, a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), [BCS](https://www.bcs.org/) and the [Australian Information Security Association](https://www.aisa.org.au/).  He is the author of over 100 papers in refereed international journals and conference proceedings and edited 33 books/proceedings. Paul is a member of the editorial board for the Elsevier journal [Computers and Security](https://www.journals.elsevier.com/computers-and-security); and the editorial advisory board for the Heliyon journal, as well as being an active reviewer for ten journals.
+
+- - - -
 xxThis is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
