@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data centres are guzzling up too much electricity. Can we make them more efficient?"
+excerpt: "Between AI and bingeing TV shows, we’re using more data than ever – and data centres are power hungry. Thankfully, there are some ways to optimise their power usage.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Data centres are guzzling up too much electricity. Can we make them more efficient?
+Paul Haskell-Dowland, Edith Cowan University and Bogdan Ghita, University of Plymouth, July 29, 2024
