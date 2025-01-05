@@ -1,7 +1,7 @@
 ---
 title: "Examination of Traditional Botnet Detection on IoT-Based Bots"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-3
 excerpt: 'Woodiss-Field A, Johnstone M, Haskell-Dowland PS'
 date: 2024-02-17
