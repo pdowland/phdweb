@@ -1,14 +1,14 @@
 ---
-title: "Examination of Traditional Botnet Detection on IoT-Based Bots"
+title: "On Relaying Strategies in Multi-Hop Covert Wireless Communications"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-3
-excerpt: 'Woodiss-Field A, Johnstone M, Haskell-Dowland PS'
-date: 2024-02-17
-venue: 'Sensors, Vol. 24, Iss. 3, pp1027'
+excerpt: 'Yu X, Yan S, Hu J, Haskell-Dowland PS, Han Y, Ng DWK'
+date: 2022-01-01
+venue: 'IEEE International Conference on Communications, pp666-672, DOI: 10.1109/ICC45855.2022.9838514'
 slidesurl: ''
-paperurl: 'https://doi.org/10.3390/s24031027'
-citation: 'Woodiss-Field, A., Johnstone, M. N., &amp; Haskell-Dowland, P. (2024). Examination of Traditional Botnet Detection on IoT-Based Bots. Sensors, 24(3), 1027. https://doi.org/10.3390/s24031027'
+paperurl: 'https://doi.org/10.1109/ICC45855.2022.9838514'
+citation: 'X. Yu, S. Yan, J. Hu, P. Haskell-Dowland, Y. Han and D. W. K. Ng, "On Relaying Strategies in Multi-Hop Covert Wireless Communications" ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 666-672, doi: 10.1109/ICC45855.2022.9838514'
 ---
 
-A botnet is a collection of Internet-connected computers that have been suborned and are controlled externally for malicious purposes. Concomitant with the growth of the Internet of Things (IoT), botnets have been expanding to use IoT devices as their attack vectors. IoT devices utilise specific protocols and network topologies distinct from conventional computers that may render detection techniques ineffective on compromised IoT devices. This paper describes experiments involving the acquisition of several traditional botnet detection techniques, BotMiner, BotProbe, and BotHunter, to evaluate their capabilities when applied to IoT-based botnets. Multiple simulation environments, using internally developed network traffic generation software, were created to test these techniques on traditional and IoT-based networks, with multiple scenarios differentiated by the total number of hosts, the total number of infected hosts, the botnet command and control (CnC) type, and the presence of aberrant activity. Externally acquired datasets were also used to further test and validate the capabilities of each botnet detection technique. The results indicated, contrary to expectations, that BotMiner and BotProbe were able to detect IoT-based botnets—though they exhibited certain limitations specific to their operation. The results show that traditional botnet detection techniques are capable of detecting IoT-based botnets and that the different techniques may offer capabilities that complement one another.
+Multi-hop transmissions are desirable in realizing large-scale long-distance covert wireless communications, since a single-hop transmission cannot fully satisfy the covertness requirement even with high transmit power. Against this background, this work compares amplify-and-forward (AF) and decode-and-forward (DF) relaying strategies by examining their achievable effective throughput taking into the covertness quality-of-service. To this end, we first present a framework of maximizing the effective throughput with the assumption that each relay adopts equal transmit power to seek mathematical tractability. With the number of relays and each relay’s transmit power optimized, our results reveal that DF relaying outperforms AF relaying in the considered multi-hop covert communications, in terms of achieving a higher effective throughput with a smaller optimal number of relays. This is mainly due to that regardless of the same detection performance at the warden Willie for AF and DF relaying under the same condition, AF relays amplify both information and noise signals, while DF relays only forward the information signals. In addition, our examinations show that DF relaying with independent codewords achieves a higher effective throughput with a fewer number of relays relative to the DF relaying with a single-codeword. Furthermore, we find that the optimal number of relays increases as the desired covert communication distance increases or the covertness constraint becomes stringent.
