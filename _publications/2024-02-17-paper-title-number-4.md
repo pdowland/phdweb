@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Woodiss-Field A, Johnstone M, Haskell-Dowland PS'
 date: 2024-02-17
-venue: 'Sensors, Vol. 24, Iss. 3, pp1027, 2024'
+venue: 'Sensors, Vol. 24, Iss. 3, pp1027'
 paperurl: 'https://doi.org/10.3390/s24031027'
 citation: 'Woodiss-Field, A., Johnstone, M. N., &amp; Haskell-Dowland, P. (2024). Examination of Traditional Botnet Detection on IoT-Based Bots. Sensors, 24(3), 1027. https://doi.org/10.3390/s24031027'
 ---
